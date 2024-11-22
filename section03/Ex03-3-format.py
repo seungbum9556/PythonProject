@@ -42,3 +42,7 @@ print('%o' %16)
 #  8진수
 oct = 0o10
 print('%d' %oct)
+
+# 16진수
+hex = 0x10
+print('%d' %hex)
