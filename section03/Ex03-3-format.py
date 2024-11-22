@@ -38,3 +38,7 @@ print(f'체력: {hp}')
 print(f'체력: {hp: .2f}')
 
 print('%o' %16)
+
+#  8진수
+oct = 0o10
+print('%d' %oct)
