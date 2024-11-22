@@ -29,3 +29,9 @@ strX =  str(1)
 strY = str(2)
 result = strX + strY
 print(result)
+
+# 아스키코드 변환
+a = ord('A')
+print(a)
+b = chr(65)
+print(b)
