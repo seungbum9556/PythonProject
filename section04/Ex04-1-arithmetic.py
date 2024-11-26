@@ -33,7 +33,7 @@ print(f'남는 포션: {remainder}')
 # 4. 비율 계산
 max_hp = 100
 current_hp = 37
-hp_ration =current_hp/max_hp
-print(f'비율: {hp_ration :.1f}')
+hp_ratio =current_hp/max_hp
+print(f'비율: {hp_ratio :.1f}')
 
 
