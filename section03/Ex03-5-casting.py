@@ -35,3 +35,12 @@ a = ord('A')
 print(a)
 b = chr(65)
 print(b)
+
+print(int('3.14'))
+'''
+주의사항: 
+부적절한 형변화 신도시 ValueError 발생
+    int('3.14')
+    int('ABC')
+    
+'''
