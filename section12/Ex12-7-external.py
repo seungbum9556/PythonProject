@@ -8,7 +8,7 @@ Ex12-7-external.py
     모듈의 집합을 의히한다.
 
 pip - 패키지 관리 도구
-    PYPL(Python Package Index)에서 패키지를 다운도르 한다.
+    PYPI(Python Package Index)에서 패키지를 다운도르 한다.
     수만은 오픈소스가 저장되어 있는 중앙 저장소
 
 패키지 설치 명령어
